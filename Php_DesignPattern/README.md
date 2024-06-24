@@ -27,7 +27,7 @@ class ProductRepository
 {
     public function save(Product $product)
     {
-        // convert Product to proper persistance format
+        
     }
 }
 
